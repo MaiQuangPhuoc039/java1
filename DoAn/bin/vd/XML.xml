@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class>
+
+   <run>
+     <gioithieu> Bài tập này là một dự án game nhỏ lấy cảm hứng
+      từ một game khá hot trên internet vào những năm 2016 , trò 
+      chơi này có thể hiểu là điều khiển nhân vật vượt các chướng
+      ngại vật trên hành trình leo núi và tìm được huy hiệu để
+      kết thúc trò chơi </gioithieu>
+     <quyluat> Nhân vật vượt qua các chướng ngại vật và thu thập những
+      phụ kiện trên hành hình nó có thể giúp người chơi vượt qua các biến
+       cố để leo lên đỉnh núi dành lấy huy hiệu hay vật phẩm quý giá</quyluat>
+     <nhanvat> Nhân vật là một cậu bé từ chân núi sau đó thu thập các vật
+      phẩm để vượt qua khó khăn và tiến về phía trước đạt lấy huy hiệu và 
+      chiến thắng </nhanvat>
+     <huong> Người chơi có thể điều khiển nhân vật theo các 
+        phím left right up dow và nhân vật sẽ di chuyển theo 
+        hướng đó và kết hợp với animation tạo cảm giác đẹp mắt hơn </huong>
+     <screenX>360</screenX>
+     <screenY>364</screenY>
+     <width>768</width>
+     <height>567</height>
+     <maxcol>16</maxcol>
+     <maxrow>12</maxrow>
+     <maxWorldCol>60</maxWorldCol>
+     <maxWorldRow>60</maxWorldRow>
+   </run>
+   
+   
+   
+   
+     
+  <superObject>
+     <name>key</name>
+     <cham> collect</cham>
+     <worldX>23*size</worldX>
+     <worldY>7*size</worldY>
+     <worldX2>23*size</worldX2>
+     <worldY2>40*size</worldY2>
+     <worldX3>38*size</worldX3>
+     <worldY3>8*size</worldY3>
+     <solidArea>(0,0,40,40)</solidArea>
+  </superObject>
+  
+  
+    
+   
+   
+</class>

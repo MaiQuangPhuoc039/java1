@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class>
+
+   <run>
+     <gioithieu> gioi \n thieu</gioithieu>
+     <quyluat>quyluat</quyluat>
+     <nhanvat>nhanvat</nhanvat>
+     <huong>up left right dow</huong>
+     <screenX>360</screenX>
+     <screenY>364</screenY>
+     <width>768</width>
+     <height>567</height>
+     <maxcol>16</maxcol>
+     <maxrow>12</maxrow>
+     <maxWorldCol>60</maxWorldCol>
+     <maxWorldRow>60</maxWorldRow>
+   </run>
+     
+  <superObject>
+     <name>key</name>
+     <cham>false</cham>
+     <worldX>34</worldX>
+     <worldY>35</worldY>
+     <worldX2>38</worldX2>
+     <worldY2>39</worldY2>
+     <worldX3>36</worldX3>
+     <worldY3>37</worldY3>
+     <solidArea>(0,0,40,40)</solidArea>
+  </superObject>
+  
+  <superObject>
+     <name>Bomb</name>
+     <cham>false</cham>
+     <worldX>34</worldX>
+     <worldY>35</worldY>
+     <worldX2>38</worldX2>
+     <worldY2>39</worldY2>
+     <worldX3>36</worldX3>
+     <worldY3>37</worldY3>
+     <solidArea>(0,0,40,40)</solidArea>
+  </superObject>
+    
+   
+   
+</class>
